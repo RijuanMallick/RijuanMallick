@@ -47,27 +47,6 @@
   <img src="https://res.cloudinary.com/demo/image/upload/cloudinary_icon.png" alt="Cloudinary" width="70" height="70"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="70" height="70"/>
 </p>
-
----
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RijuanMallick&show_icons=true&theme=radical" alt="RijuanMallick's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RijuanMallick&layout=compact&theme=radical" alt="RijuanMallick's Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RijuanMallick&theme=radical" alt="RijuanMallick's GitHub Trophies" />
-</p>
-
----
-
-## 🏅 Holopin Badges:
-[![An image of @RijuanMallick's Holopin badges](https://holopin.me/RijuanMallick)](https://holopin.io/@negativenagesh)
-
 ---
 
 ## 🏅 Devfolio Badges:
@@ -75,33 +54,15 @@
 
 ---
 
-## 🏅 GSSoC Badges
-
-<img src="https://github.com/user-attachments/assets/66164093-2767-4ed9-8659-ca2c64f02f79" alt="GSSoC-EXT" width="280" height="350"/>
-<img src="https://github.com/user-attachments/assets/e02f57f9-dbac-474d-b658-8cd0b68899a5" alt="GSSoC Bedge" width="250" height="350"/>
-<img src="https://github.com/user-attachments/assets/f486133f-1364-468a-8e5c-58b20d6b86a4" alt="GSSoC Bedge" width="250" height="350"/>
-
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="110px" height="110px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="110px" height="110px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="110px" height="110px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="110px" height="110px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="110px" height="110px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="110px" height="110px" />
-  </a>
-</div>
-
----
-
 ## 🤝 Connect with Me:
 <p align="left">
-  <a href="https://linkedin.com/in/sheikh-anarul" target="blank">
+  <a href="https://www.linkedin.com/in/rijuan-mallick-b20ba1202/" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="mailto:RijuanMallick@gmail.com" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"/>
   </a>
-  <a href="https://www.instagram.com/sk_anarul_8002/" target="_blank">
+  <a href="https://www.instagram.com/#/" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
 </a>
 </p>
