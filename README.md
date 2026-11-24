@@ -10,16 +10,16 @@
 
 ## 🙋‍♂️ About Me: You can follow me
 
-- 💼 **Currently working at:** A leading MNC fintech company as a **.NET Developer**, where I contribute to building secure and scalable financial solutions.
+- 💼 **Currently working at:** A company as a **React Js**, where I contribute to building secure and scalable financial solutions.
 
-- 🔭 **Currently exploring:** Building a MERN Stack and Java & .NET Full Stack Application with integrated payment methods using **Stripe**.
+- 🔭 **Currently exploring:** Building a MERN Stack and react js & .NET Full Stack Application.
 
 - 🚀 **Learning:** Advanced concepts in Spring Boot, Microservices Architecture, and exploring **DevOps tools** like Docker, Jenkins, and Kubernetes.
-- 💡 **Experienced in:** Java, Spring Boot, Hibernate ORM, ReactJS, Redux, Tailwind CSS, Node.js, MySQL, AWS EC2, Jenkins, Docker, and Kubernetes.
-- 👯 **Looking to collaborate on:** Open Source projects and innovative ideas that solve real-world problems using web technologies.
+- 💡 **Experienced in:**  ReactJS, Redux, Tailwind CSS, Node.js, MySQL, AWS EC2, Jenkins, Docker, and Kubernetes.
+- 👯 **Looking to collaborate on:** Open-source projects and innovative ideas that solve real-world problems using web technologies.
 - 💬 **Ask me about:** Java, Spring Boot, Hibernate, Microservices, React, Redux, Tailwind CSS, CI/CD pipelines, and DevOps practices.
 - 📫 **Reach me at:** *rijuanmallick121@gmail.com*
-- 🌐 **Connect with me on:** [LinkedIn](https://www.linkedin.com/in/skanarul/](https://www.linkedin.com/in/rijuan-mallick-b20ba1202/)
+- 🌐 **Connect with me on:** [LinkedIn](https://www.linkedin.com/in/rijuan-mallick-b20ba1202/)
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I once participated in a swimming competition during my village festival and won **second prize**! I love the thrill of competition, whether it’s in sports or software development.
 
